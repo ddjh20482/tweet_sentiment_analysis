@@ -158,7 +158,7 @@ Max_features during tfidf instantiation is increased from 10 to 100 meaning it w
 Validation score - .90
 Accuracy score - .89
 
-![final_model](./images/final_model.png)
+![final_model](./images/final.png)
 
 The scores are a lot more improved.
 
@@ -175,21 +175,27 @@ The fitted final model is used to predict and categorize missing brand informati
 ## Visualization
 
 - **Overall emotion percentages for Apple**
+
 ![apple_emo_all](./images/apple_emo_all.png)
 
 - **Emotion percentages for Apple's mobile products**
+
 ![apple_emo_mobile](./images/apple_emo_mobile.png)
 
 - **Emotion percentages for Apple's other products**
+
 ![apple_emo_other](./images/apple_emo_other.png)
 
 - **Overall emotion percentages for Google**
+
 ![google_emo_all](./images/google_emo_all.png)
 
 - **Emotion percentages for Google's mobile products**
+
 ![google_emo_mobile](./images/google_emo_mobile.png)
 
 - **Emotion percentages for Google's other products**
+
 ![google_emo_other](./images/google_emo_other.png)
 
 ## The Most Frequent Words
