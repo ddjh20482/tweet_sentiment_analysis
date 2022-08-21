@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.DS_Store
+__pycache__
+.pytest_cache
+.gitattributes
+*.zip
+*.db
+*.txt
+
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
